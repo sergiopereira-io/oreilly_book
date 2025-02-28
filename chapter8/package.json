@@ -1,0 +1,21 @@
+{
+  "name": "chapter8",
+  "version": "1.0.0",
+  "main": "product-chat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/community": "^0.3.31",
+    "@langchain/core": "^0.3.40",
+    "@langchain/openai": "^0.4.4",
+    "d3-dsv": "^2.0.0",
+    "express": "^4.21.2",
+    "langchain": "^0.3.19",
+    "openai": "^4.85.2"
+  },
+  "description": ""
+}
